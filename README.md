@@ -1,2 +1,2 @@
-# GraduationProject_Arac-Ici_SeyahatKonforOlcum
+# GraduationProject_AracIciSeyahatKonforOlcum
 BİL 495/496 Bitirme Çalışması
